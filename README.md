@@ -1,46 +1,44 @@
-# 📌 Project Name
+# 📌 The Happy Place
 
-![GitHub Repo Stars](https://img.shields.io/github/stars/yourusername/repository-name?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/yourusername/repository-name?style=social)
-![License](https://img.shields.io/github/license/yourusername/repository-name)
+![GitHub Repo Stars](https://img.shields.io/github/stars/yourusername/the-happy-place?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/yourusername/the-happy-place?style=social)
+![License](https://img.shields.io/github/license/yourusername/the-happy-place)
 
 ## 📜 Description
-A brief description of your project. Explain what it does and its key features.
+The Happy Place is a travel app that helps users discover and save their favorite locations. It utilizes Google Place API for location data, Dexter for runtime permissions, and SQLite for local data storage.
 
 ## 🚀 Features
-- ✅ Feature 1
-- ✅ Feature 2
-- ✅ Feature 3
-- ✅ Real-time updates
+- ✅ Search and save favorite places
+- ✅ Google Place API integration
+- ✅ SQLite database for offline storage
+- ✅ Dexter for runtime permissions
+- ✅ Intuitive UI built with XML and Kotlin
 
 ## 🎥 Demo
-![Project Demo](https://github.com/yourusername/repository-name/blob/main/demo.gif)
+![Project Demo](https://github.com/suryamkumar/HappyPlaces/blob/main/demo.gif)
 
 ## 📂 Installation
 ```sh
 # Clone the repository
-git clone https://github.com/yourusername/repository-name.git
+git clone https://github.com/suryamkumar/HappyPlaces.git
 
 # Navigate to the project directory
-cd repository-name
+cd HappyPlaces
 
-# Install dependencies
-npm install # or flutter pub get
-
-# Run the project
-npm start # or flutter run
+# Open in Android Studio and build the project
 ```
 
 ## 🔧 Tech Stack
-![Flutter](https://img.shields.io/badge/Made%20with-Flutter-blue)
-![Firebase](https://img.shields.io/badge/Backend-Firebase-yellow)
-![WebRTC](https://img.shields.io/badge/RealTime-WebRTC-green)
+![Kotlin](https://img.shields.io/badge/Language-Kotlin-blue)
+![SQLite](https://img.shields.io/badge/Database-SQLite-yellow)
+![Google Place API](https://img.shields.io/badge/API-Google%20Place-red)
+![Dexter](https://img.shields.io/badge/Permissions-Dexter-green)
 
 ## 📅 Roadmap
-- [x] Implement authentication
-- [x] Add dark mode
-- [ ] Integrate payment gateway
-- [ ] Deploy to Play Store
+- [x] Implement place search and save feature
+- [x] Integrate Google Place API
+- [ ] Enhance UI with Material Design
+- [ ] Add user authentication
 
 ## 🤝 Contribution
 Contributions are welcome! Please follow these steps:
@@ -51,3 +49,7 @@ Contributions are welcome! Please follow these steps:
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Thank you for visiting this project! 😊
