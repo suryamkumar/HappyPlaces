@@ -1,9 +1,5 @@
 # 📌 The Happy Place
 
-![GitHub Repo Stars](https://img.shields.io/github/stars/yourusername/the-happy-place?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/yourusername/the-happy-place?style=social)
-![License](https://img.shields.io/github/license/yourusername/the-happy-place)
-
 ## 📜 Description
 The Happy Place is a travel app that helps users discover and save their favorite locations. It utilizes Google Place API for location data, Dexter for runtime permissions, and SQLite for local data storage.
 
